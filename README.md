@@ -1,4 +1,4 @@
-# CP421 Data Mining - Assignment 2
+# Data Mining - Assignment 2
 
 **Due Date:** Nov 6, 2023 at 11:59 PM
 
